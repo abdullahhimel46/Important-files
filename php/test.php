@@ -15,3 +15,4 @@ $mname="Abd";
 $lname="Himel";
 
 printf('My name %3$s %1$s %2$s',$fname,$mname,$lname);
+printf('My name %3$s %1$s %2$s',$fname,$mname,$lname);
